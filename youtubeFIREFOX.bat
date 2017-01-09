@@ -1,5 +1,5 @@
 @ECHO off
 
-start firefox "https://www.youtube.com/" "https://www.youtube.com/user/JajaborTheNomad/videos"
+start firefox "https://www.youtube.com/"
 
 exit
