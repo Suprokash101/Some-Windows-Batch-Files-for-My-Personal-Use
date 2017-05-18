@@ -21,3 +21,5 @@ taskkill /F /IM AthBtTray.exe
 taskkill /F /IM BtvStack.exe
 
 taskkill /F /IM sensorsrv.exe
+
+taskkill /F /IM wuauclt.exe
